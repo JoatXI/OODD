@@ -19,7 +19,7 @@ public class AggregationApp {
         boolean stop = false;
         while(stop == false) {
             i++;
-            System.out.println("1. Add a studet.");
+            System.out.println("1. Add a studet. ");
             System.out.println("2. Search for student by ID.");
             System.out.println("3. Search for students by name.");
             System.out.println("4. Quit Application.");
